@@ -1,0 +1,6 @@
+ktor:
+    application:
+        modules:
+            - com.breens.ApplicationKt.module
+    deployment:
+        port: 8080
